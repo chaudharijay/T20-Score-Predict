@@ -1,3 +1,9 @@
 xgboost==1.4.2
 streamlit
 scikit-learn
+
+streamlit
+pickle
+pandas
+numpy
+xgboost
